@@ -76,7 +76,7 @@ public class MassiveHomeWork {
         }
 
 
-        System.out.println("Сумма верхней и нижней строки равна: " + Str1);
+        System.out.println("Сумма верхнего и нижнего ребра равна: " + Str1);
         System.out.println("Сумма двух ребер сбоку равна: " + Str2);
         System.out.println("Сумма всех ребер равна = " + (Str2 + Str1 - leftUpCorner - rightUpCorner - leftDownCorner - rightDownCorner));
 

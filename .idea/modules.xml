@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Cyberforum2.iml" filepath="$PROJECT_DIR$/.idea/Cyberforum2.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelixArray/HelixArray.iml" filepath="$PROJECT_DIR$/HelixArray/HelixArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Roman Numerials Encoder/Roman Numerials Encoder.iml" filepath="$PROJECT_DIR$/Roman Numerials Encoder/Roman Numerials Encoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Roman Numerials via Char/Roman Numerials via Char.iml" filepath="$PROJECT_DIR$/Roman Numerials via Char/Roman Numerials via Char.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Romanian Numerials Encoder via Strings/Romanian Numerials Encoder via Strings.iml" filepath="$PROJECT_DIR$/Romanian Numerials Encoder via Strings/Romanian Numerials Encoder via Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sum all previous numbers/Sum all previous numbers.iml" filepath="$PROJECT_DIR$/Sum all previous numbers/Sum all previous numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/meterToSm/meterToSm.iml" filepath="$PROJECT_DIR$/meterToSm/meterToSm.iml" />
       <module fileurl="file://$PROJECT_DIR$/Квадратоландия/Квадратоландия.iml" filepath="$PROJECT_DIR$/Квадратоландия/Квадратоландия.iml" />
       <module fileurl="file://$PROJECT_DIR$/На разбор с cyberforum/На разбор с cyberforum.iml" filepath="$PROJECT_DIR$/На разбор с cyberforum/На разбор с cyberforum.iml" />
